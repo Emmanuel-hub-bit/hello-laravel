@@ -283,9 +283,9 @@ Claude AI - For assisting with learning and troubleshooting
 WSL Team - For making Linux development on Windows seamless
 
 👤 Author
-Your Name
+Your Emmanuel Onyango
 
-GitHub: @yourusername
+GitHub: @Emmanuel-hub-bit
 Project: Moringa AI Capstone - Laravel Toolkit
 
 🚀 Next Steps
